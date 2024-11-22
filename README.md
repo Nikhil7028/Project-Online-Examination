@@ -1,10 +1,19 @@
-Online Examination system is a web base software solution designed to streamline and 
-modernize the process of conducting examinations over the internet. This project aim to 
-replace traditional paper-based exams with digital platform, offering enhance efficiency, 
-accessibility and security. 
-The system allow administrators to create, manage and schedule exam. Students can log in 
-securely to take exams remotely, eliminating the need for physical presence. The platform 
-supports multiple-choice questions. 
-Results are generated instantly, providing quick feedback to both students and administrators. 
-The Online Examination System aims to revolutionize the examination process, making it 
-more efficient, accessible, and secure in the digital era. 
+Online Examination System
+An Online Examination System built using HTML, CSS, JavaScript, and PHP. This platform enables the creation and management of online exams with features for administrators, examiners, and students.
+
+Features
+For Administrators
+User management: Add, update, or delete examiners and students.
+Exam configuration: Create exams, set time limits, and define question types.
+For Examiners
+Question bank: Add, update, and manage questions (multiple choice, true/false, etc.).
+View exam results and analytics.
+For Students
+User-friendly interface to take exams.
+Timer to track remaining time during the exam.
+Instant feedback with results and correct answers (if enabled).
+
+Technologies Used
+Frontend: HTML, CSS, JavaScript
+Backend: PHP
+Database: MySQL
