@@ -19,5 +19,6 @@ An **Online Examination System** built using **HTML, CSS, Bootstrap, JavaScript,
 - **Backend**: PHP  
 - **Database**: MySQL  
 
-## Contact
-For any queries, feel free to reach out at nikhilchoudhari980.com.
+## Contact  
+For any queries, feel free to reach out at [nikhilchoudhari980](mailto:your-email@example.com).
+
