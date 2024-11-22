@@ -20,5 +20,4 @@ An **Online Examination System** built using **HTML, CSS, Bootstrap, JavaScript,
 - **Database**: MySQL  
 
 ## Contact  
-For any queries, feel free to reach out at [nikhilchoudhari980](mailto:your-email@example.com).
-
+For any queries, feel free to reach out at nikhilchoudhari980@gmail.com(mailto:nikhilchoudhari980@gmail.com?subject=Github%20Project%20:%20Online%20Examination%20System%20PHP%20Regarding).
