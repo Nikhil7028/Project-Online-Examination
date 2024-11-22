@@ -1,16 +1,13 @@
 # Online Examination System  
 
-An **Online Examination System** built using **HTML, CSS, JavaScript, and PHP**. This platform enables the creation and management of online exams with features for administrators, examiners, and students.  
+An **Online Examination System** built using **HTML, CSS, Bootstrap, JavaScript, and PHP**. This platform enables the creation and management of online exams with features for administrators, examiners, and students.  
 
 ## Features  
 
-### For Administrators  
-- User management: Add, update, or delete examiners and students.  
-- Exam configuration: Create exams, set time limits, and define question types.  
-
-### For Examiners  
-- Question bank: Add, update, and manage questions (multiple choice, true/false, etc.).  
-- View exam results and analytics.  
+### For Faculty   
+- Question bank: Add, update, and manage questions (multiple choice, true/false, etc.).
+- Create exams, set time limits, and define question.  
+- View exam results
 
 ### For Students  
 - User-friendly interface to take exams.  
@@ -18,12 +15,9 @@ An **Online Examination System** built using **HTML, CSS, JavaScript, and PHP**.
 - Instant feedback with results and correct answers (if enabled).  
 
 ## Technologies Used  
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript 
 - **Backend**: PHP  
 - **Database**: MySQL  
 
-## Setup Instructions  
-
-1. **Clone this repository:**  
-   ```bash  
-   git clone https://github.com/your-username/online-examination-system.git  
+## Contact
+For any queries, feel free to reach out at nikhilchoudhari980.com.
